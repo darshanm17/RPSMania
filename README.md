@@ -19,6 +19,7 @@ Welcome to RPSMania, where the classic game of rock, paper, scissors comes alive
 
 
 ## Getting Started
+![Screenshot (89)](https://github.com/darshanm17/RPSMania/assets/116059183/0832e765-0bae-419a-b6fc-1174d8e2ccc0)
 
 To get a copy of this project up and running on your local machine, simply clone the repository:
 1. Clone the repository:
