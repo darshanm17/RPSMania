@@ -1,0 +1,121 @@
+body{
+  background: rgb(25, 25, 25);
+  font-family: Roboto,Arial, Helvetica, sans-serif;
+  padding-top: 10px;
+  padding-left: 30px;
+}
+.Title{
+  color: white ;
+  font-size: 50px;
+  font-weight: bold;
+
+}
+.main-img{
+  height: 60px;
+  background-color: rgb(25, 25, 25);
+  padding:8px;
+  transition: backgtound-color 2s ease-in-out;
+}
+
+.main-img-button{
+  width: 151px;
+height: 120px;
+background-color: rgb(25, 25, 25);
+border: 4px solid aliceblue;
+border-radius: 63px;
+transition: backgtound-color 2s ease-in-out;
+margin: 10px;
+}
+.stpara{
+  color: white ;
+  font-size: 40px;
+  font-weight: bold;
+}
+.para{
+  color: white ;
+  font-size: 30px;
+  font-weight: bold;
+}
+.secpara{
+  color: white ;
+  font-size: 30px;
+  font-weight: bold;
+}
+.reset{
+  color: white;
+  background-color: rgb(25, 25, 25);
+  padding: 5px 10px 5px 10px;
+  width: 199px;
+  height: 62px;
+  font-size: 24px;
+  margin-left: 20px;
+  border: 4px solid aliceblue;
+  border-radius: 30px;
+  transition: background-color 1s ease-in;
+}
+.reset:hover{
+  opacity: 0.8;
+  background-color: red;
+
+}
+body{
+  background: rgb(25, 25, 25);
+  font-family: Roboto,Arial, Helvetica, sans-serif;
+  padding-top: 10px;
+  padding-left: 30px;
+}
+.Title{
+  color: white ;
+  font-size: 50px;
+  font-weight: bold;
+
+}
+.main-img{
+  height: 60px;
+  background-color: rgb(25, 25, 25);
+  padding:8px;
+  transition: backgtound-color 2s ease-in-out;
+}
+
+.main-img-button{
+  width: 151px;
+height: 120px;
+background-color: rgb(25, 25, 25);
+border: 4px solid aliceblue;
+border-radius: 63px;
+transition: backgtound-color 2s ease-in-out;
+margin: 10px;
+}
+.stpara{
+  color: white ;
+  font-size: 40px;
+  font-weight: bold;
+}
+.para{
+  color: white ;
+  font-size: 30px;
+  font-weight: bold;
+}
+.secpara{
+  color: white ;
+  font-size: 30px;
+  font-weight: bold;
+}
+.reset{
+  color: white;
+  background-color: rgb(25, 25, 25);
+  padding: 5px 10px 5px 10px;
+  width: 199px;
+  height: 62px;
+  font-size: 24px;
+  margin-left: 20px;
+  border: 4px solid aliceblue;
+  border-radius: 30px;
+  transition: background-color 1s ease-in;
+}
+.reset:hover{
+  opacity: 0.8;
+  background-color: red;
+
+}
+
